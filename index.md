@@ -6,6 +6,11 @@
 
 이화여자대학교 조형예술대학 디자인학부
 
+### 연락처
+
+Tel : 01099999999
+E-Mail : xxxx@ewhain.net
+
 ```markdown
 
 # Header 1
