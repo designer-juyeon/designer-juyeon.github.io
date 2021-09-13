@@ -1,6 +1,6 @@
-<img src="./IMG_8077.jpeg" width="300"/>
-
 ## 최주연 이력서
+
+<img src="./IMG_8077.jpeg" width="300"/>
 
 안녕하세요 반갑습니다.
 
